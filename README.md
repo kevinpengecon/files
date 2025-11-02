@@ -1,1 +1,1 @@
-Newest versions of files, such as CVs and working papers, are saved here.
+Newest versions of files, such as CVs, are saved here.
